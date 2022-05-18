@@ -1,0 +1,39 @@
+a {
+	color: #b60000;
+	border: black 1px solid;
+	padding: 5px;
+}
+.illarion {
+	color: darkblue;
+	border: black 1px solid;
+	padding: 5px;
+}
+.zagolovok {
+	display: flex;
+	align-items: center;
+	flex: 1;
+	flex-direction: column;
+}
+.knopki {
+	flex: 1 1 auto;
+	padding: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 100% auto;
+	color: white;
+	box-shadow: 0 0 10px #000300;
+	border-radius: 10px;
+	background-image: linear-gradient(to right, #070719, #0c4e01);
+	margin: 0 25px 25px 0;
+}
+.link1700 {
+	font-size: 30px;
+}
+.linknije {
+	font-size: 20px;
+}
+.izi {
+	font-size: 20px;
+	padding: 5px;
+}
